@@ -2436,7 +2436,7 @@ Mods: {
 			PerditusProjectile.DisplayName: 失落长汐
 			PunctusProjectile.DisplayName: 焱
 			PunctusRock.DisplayName: 焱石
-			// BrimstoneBarrageOld.DisplayName: Brimstone Dart
+			BrimstoneBarrageOld.DisplayName: 硫火飞弹
 		}
 
 		Status: {
